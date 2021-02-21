@@ -1,0 +1,7 @@
+LIBRARY	"Algorithm"
+
+EXPORTS
+    ZLGKey
+    ;GenerateKeyEx
+    ;Seed2Key
+    ;ES_CalculateKeyFromSeed
