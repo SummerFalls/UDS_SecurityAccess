@@ -16,6 +16,6 @@
  */
 ```
 
-## :book: ¼ò½é
+## :book: ç®€ä»‹
 
 UDS 0x27 Security Access Algorithm DLL for `ZLG ZCANPRO`, `CANoe`, `ETS`, `Vehecle Spy3`
